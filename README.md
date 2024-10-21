@@ -8,9 +8,9 @@ Welcome to my collection of mini-projects from my internship at **Bharat Intern*
 
 | Project                    | Description                                                                | Last Updated |
 |---------------------------|----------------------------------------------------------------------------|--------------|
-| **IRIS Classification**    | Explore the classic IRIS dataset using classification algorithms to predict flower species. 🌸 | Last year    |
-| **House Price Prediction** | A regression model predicting house prices based on various features. 🏠       | Last year    |
-| **Wine Quality Prediction**| An analysis of wine characteristics to predict quality ratings. 🍷           | Last year    |
+| **IRIS Classification**    | Explore the classic IRIS dataset using classification algorithms to predict flower species. 🌸 | 2023    |
+| **House Price Prediction** | A regression model predicting house prices based on various features. 🏠       | 2023    |
+| **Wine Quality Prediction**| An analysis of wine characteristics to predict quality ratings. 🍷           | 2023    |
 
 ---
 
