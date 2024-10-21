@@ -26,13 +26,10 @@ Welcome to my collection of mini-projects from my internship at **Bharat Intern*
 
 ## 🚀 Getting Started
 
-```bash
+You can quickly get started by running the following commands:
 # Clone this repository
-git clone https://github.com/alluguntihemanth/BharatIntern.git
-
+1. `git clone https://github.com/alluguntihemanth/BharatIntern.git`  
 # Navigate to the project directory
-cd BharatIntern
-
+2. `cd BharatIntern`
 # Run the Jupyter notebooks to explore the projects
-jupyter notebook
-
+3. `jupyter notebook` 
